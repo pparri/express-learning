@@ -8,3 +8,5 @@ For starting:
  - npm install express
  - npm install
  - npm start
+
+NOTE: you must set up your own mongoDB Atlas cluster!
